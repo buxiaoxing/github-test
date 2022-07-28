@@ -37,4 +37,14 @@ test_pr_template
 ## 贡献者
 
 <!-- readme: collaborators,contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/buxiaoxing">
+            <img src="https://avatars.githubusercontent.com/u/60745831?v=4" width="100;" alt="buxiaoxing"/>
+            <br />
+            <sub><b>Buxiaoxing</b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: collaborators,contributors -end -->
