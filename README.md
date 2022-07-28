@@ -43,17 +43,17 @@ test_pr_template
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/budaxing">
-            <img src="https://avatars.githubusercontent.com/u/110142881?v=4" width="100;" alt="budaxing"/>
-            <br />
-            <sub><b>Budaxing</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/buxiaoxing">
             <img src="https://avatars.githubusercontent.com/u/60745831?v=4" width="100;" alt="buxiaoxing"/>
             <br />
             <sub><b>Buxiaoxing</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/budaxing">
+            <img src="https://avatars.githubusercontent.com/u/110142881?v=4" width="100;" alt="budaxing"/>
+            <br />
+            <sub><b>Budaxing</b></sub>
         </a>
     </td></tr>
 </table>
