@@ -7,3 +7,5 @@ again
 修复issues
 
 branch related issues
+
+test_pr_template
