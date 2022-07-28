@@ -46,7 +46,7 @@ test_pr_template
         <a href="https://github.com/budaxing">
             <img src="https://avatars.githubusercontent.com/u/110142881?v=4" width="100;" alt="budaxing"/>
             <br />
-            <sub><b>budaxing</b></sub>
+            <sub><b>Budaxing</b></sub>
         </a>
     </td>
     <td align="center">
